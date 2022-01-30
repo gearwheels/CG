@@ -88,7 +88,7 @@ public abstract class MyApp: CGApplicationTemplate<CGApplication, Device, Device
     }
 
 
-    [DisplayNumericProperty(Default: 100, Increment: 0.01, Minimum: 1, Name: "Радиус основания")]
+    [DisplayNumericProperty(Default: 100, Increment: 0.1, Minimum: 1, Name: "Ширина фигуры")]
     public double BaseRadius
     {
         get { return Get<double>(); }
@@ -101,7 +101,7 @@ public abstract class MyApp: CGApplicationTemplate<CGApplication, Device, Device
         }
     }
 
-    [DisplayNumericProperty(Default: 100, Increment: 0.01, Minimum: 1, Name: "Высота пирамиды")]
+    [DisplayNumericProperty(Default: 100, Increment: 0.1, Minimum: 1, Name: "Высота фигуры")]
     public double PyrHeight
     {
         get { return Get<double>(); }
