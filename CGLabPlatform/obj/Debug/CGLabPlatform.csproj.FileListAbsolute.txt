@@ -16,3 +16,9 @@ D:\education\education\Comp_Graph\MY_NEW\Computer-Graphics-Labs\CGLabPlatform\ob
 D:\education\education\Comp_Graph\MY_NEW\Computer-Graphics-Labs\CGLabPlatform\obj\Debug\CGLabPlatform.csproj.CoreCompileInputs.cache
 D:\education\education\Comp_Graph\MY_NEW\Computer-Graphics-Labs\CGLabPlatform\obj\Debug\CGLabPlatform.dll
 D:\education\education\Comp_Graph\MY_NEW\Computer-Graphics-Labs\CGLabPlatform\obj\Debug\CGLabPlatform.pdb
+D:\education\education\Comp_Graph\MY_NEW\TEST\CG\CGLabPlatform\bin\Debug\CGLabPlatform.dll
+D:\education\education\Comp_Graph\MY_NEW\TEST\CG\CGLabPlatform\bin\Debug\CGLabPlatform.pdb
+D:\education\education\Comp_Graph\MY_NEW\TEST\CG\CGLabPlatform\obj\Debug\CGLabPlatform.csproj.AssemblyReference.cache
+D:\education\education\Comp_Graph\MY_NEW\TEST\CG\CGLabPlatform\obj\Debug\CGLabPlatform.csproj.CoreCompileInputs.cache
+D:\education\education\Comp_Graph\MY_NEW\TEST\CG\CGLabPlatform\obj\Debug\CGLabPlatform.dll
+D:\education\education\Comp_Graph\MY_NEW\TEST\CG\CGLabPlatform\obj\Debug\CGLabPlatform.pdb
