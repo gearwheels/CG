@@ -112,7 +112,7 @@ public abstract class MyApp : CGApplicationTemplate<CGApplication, Device, Devic
         }
     }
 
-    [DisplayNumericProperty(Default: new[] { 10d, 4d }, Minimum: 4d, Increment: 2d, Name: "Апроксимация")]
+    [DisplayNumericProperty(Default: new[] { 16d, 16d }, Minimum: 4d, Increment: 2d, Name: "Апроксимация")]
     public DVector2 Approximation
     {
         get { return Get<DVector2>(); }
