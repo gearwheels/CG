@@ -112,7 +112,7 @@ public abstract class MyApp : CGApplicationTemplate<CGApplication, Device, Devic
         }
     }
 
-    [DisplayNumericProperty(Default: new[] { 16d, 16d }, Minimum: 4d, Increment: 2d, Name: "Апроксимация")]
+    [DisplayNumericProperty(Default: new[] { 12d, 16d }, Minimum: 4d, Increment: 2d, Name: "Апроксимация")]
     public DVector2 Approximation
     {
         get { return Get<DVector2>(); }
@@ -446,7 +446,7 @@ public abstract class MyApp : CGApplicationTemplate<CGApplication, Device, Devic
         int indx = 0;
         var random = new Random();
         
-        for (int i = 0; i < approx1/2; i++)
+        for (int i = 0; i < (approx1 / 2) - 1; i++)
         {
             sumtheta += theta;
             LLvertices.Add(new List<Vertex>());
@@ -484,8 +484,8 @@ public abstract class MyApp : CGApplicationTemplate<CGApplication, Device, Devic
         {
             Lpolygons.Add(new Polygon(new Vertex[] { LLvertices[LLvertices.Count - 3][i - 1], LLvertices[LLvertices.Count - 2][0], LLvertices[LLvertices.Count - 3][i ] }, random.Next() )); //random.Next()
         }
-        Lpolygons.Add(new Polygon(new Vertex[] {LLvertices[LLvertices.Count - 3][LLvertices[LLvertices.Count - 3].Count - 1 - 1], LLvertices[LLvertices.Count - 2][0], LLvertices[LLvertices.Count - 3][0]}, random.Next())); //LLvertices[LLvertices.Count - 3][LLvertices[LLvertices.Count - 3].Count - 1 - 1]
-        vertices = new Vertex[(LLvertices.Count - 2) * LLvertices[1].Count + 2];
+        Lpolygons.Add(new Polygon(new Vertex[] {LLvertices[LLvertices.Count - 3][LLvertices[LLvertices.Count - 3].Count  - 1], LLvertices[LLvertices.Count - 2][0], LLvertices[LLvertices.Count - 3][0]}, random.Next())); //LLvertices[LLvertices.Count - 3][LLvertices[LLvertices.Count - 3].Count - 1 - 1]
+        vertices = new Vertex[(LLvertices.Count - 2) * LLvertices[0].Count + 2];
         polygons = new Polygon[Lpolygons.Count];
         for (int i = 0; i < vertices.Length; ++i)
        {
