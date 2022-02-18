@@ -1,0 +1,6 @@
+D:\education\education\Comp_Graph\MY_NEW\8O-304_Rumyantseva_task_7\8O-304_Rumyantseva_task_7\CGLabPlatform\bin\Debug\CGLabPlatform.dll
+D:\education\education\Comp_Graph\MY_NEW\8O-304_Rumyantseva_task_7\8O-304_Rumyantseva_task_7\CGLabPlatform\bin\Debug\CGLabPlatform.pdb
+D:\education\education\Comp_Graph\MY_NEW\8O-304_Rumyantseva_task_7\8O-304_Rumyantseva_task_7\CGLabPlatform\obj\Debug\CGLabPlatform.csproj.AssemblyReference.cache
+D:\education\education\Comp_Graph\MY_NEW\8O-304_Rumyantseva_task_7\8O-304_Rumyantseva_task_7\CGLabPlatform\obj\Debug\CGLabPlatform.csproj.CoreCompileInputs.cache
+D:\education\education\Comp_Graph\MY_NEW\8O-304_Rumyantseva_task_7\8O-304_Rumyantseva_task_7\CGLabPlatform\obj\Debug\CGLabPlatform.dll
+D:\education\education\Comp_Graph\MY_NEW\8O-304_Rumyantseva_task_7\8O-304_Rumyantseva_task_7\CGLabPlatform\obj\Debug\CGLabPlatform.pdb
