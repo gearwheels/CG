@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
@@ -34,3 +35,41 @@ Global
 		SolutionGuid = {C76ED266-B676-444C-B526-228D6CA84030}
 	EndGlobalSection
 EndGlobal
+=======
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CGLabPlatform", "CGLabPlatform\CGLabPlatform.csproj", "{ADE0E2B1-21A6-4FC1-BDDE-2611D3A214D2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Rum", "Rum", "{914FA5D9-3F3C-4A2D-ACB9-A741FA803659}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab7", "Lab7\Lab7.csproj", "{41856AE2-F5CA-428F-A4CF-A0D932D92D1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADE0E2B1-21A6-4FC1-BDDE-2611D3A214D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADE0E2B1-21A6-4FC1-BDDE-2611D3A214D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADE0E2B1-21A6-4FC1-BDDE-2611D3A214D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADE0E2B1-21A6-4FC1-BDDE-2611D3A214D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41856AE2-F5CA-428F-A4CF-A0D932D92D1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41856AE2-F5CA-428F-A4CF-A0D932D92D1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41856AE2-F5CA-428F-A4CF-A0D932D92D1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41856AE2-F5CA-428F-A4CF-A0D932D92D1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{41856AE2-F5CA-428F-A4CF-A0D932D92D1A} = {914FA5D9-3F3C-4A2D-ACB9-A741FA803659}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C76ED266-B676-444C-B526-228D6CA84030}
+	EndGlobalSection
+EndGlobal
+>>>>>>> a1a04f1c8b35bf45159b09ca61ab94e177f5e07a
