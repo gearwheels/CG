@@ -1,0 +1,10 @@
+D:\education\education\Comp_Graph\MY_NEW\CP\cglab\cglab-OGL-example\bin\Debug\cglab45-ogl3d.exe.config
+D:\education\education\Comp_Graph\MY_NEW\CP\cglab\cglab-OGL-example\bin\Debug\cglab45-ogl3d.exe
+D:\education\education\Comp_Graph\MY_NEW\CP\cglab\cglab-OGL-example\bin\Debug\cglab45-ogl3d.pdb
+D:\education\education\Comp_Graph\MY_NEW\CP\cglab\cglab-OGL-example\bin\Debug\CGLabPlatform.dll
+D:\education\education\Comp_Graph\MY_NEW\CP\cglab\cglab-OGL-example\bin\Debug\CGLabPlatform.pdb
+D:\education\education\Comp_Graph\MY_NEW\CP\cglab\cglab-OGL-example\obj\Debug\cglab-OGL-example.csproj.AssemblyReference.cache
+D:\education\education\Comp_Graph\MY_NEW\CP\cglab\cglab-OGL-example\obj\Debug\cglab-OGL-example.csproj.CoreCompileInputs.cache
+D:\education\education\Comp_Graph\MY_NEW\CP\cglab\cglab-OGL-example\obj\Debug\cglab-OGL-example.csproj.CopyComplete
+D:\education\education\Comp_Graph\MY_NEW\CP\cglab\cglab-OGL-example\obj\Debug\cglab45-ogl3d.exe
+D:\education\education\Comp_Graph\MY_NEW\CP\cglab\cglab-OGL-example\obj\Debug\cglab45-ogl3d.pdb

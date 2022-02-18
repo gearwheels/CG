@@ -18,3 +18,13 @@ D:\Ycheba2kurs\Comp_graph\My_LAB\CG\mylabs\mylab4-6\obj\Debug\mylab4-6.csproj.Co
 D:\Ycheba2kurs\Comp_graph\My_LAB\CG\mylabs\mylab4-6\obj\Debug\mylab4-6.csproj.CopyComplete
 D:\Ycheba2kurs\Comp_graph\My_LAB\CG\mylabs\mylab4-6\obj\Debug\cglab-demo.exe
 D:\Ycheba2kurs\Comp_graph\My_LAB\CG\mylabs\mylab4-6\obj\Debug\cglab-demo.pdb
+D:\education\education\Comp_Graph\MY_NEW\CG\mylabs\mylab4-6\bin\Debug\cglab-demo.exe.config
+D:\education\education\Comp_Graph\MY_NEW\CG\mylabs\mylab4-6\bin\Debug\cglab-demo.exe
+D:\education\education\Comp_Graph\MY_NEW\CG\mylabs\mylab4-6\bin\Debug\cglab-demo.pdb
+D:\education\education\Comp_Graph\MY_NEW\CG\mylabs\mylab4-6\bin\Debug\CGLabPlatform.dll
+D:\education\education\Comp_Graph\MY_NEW\CG\mylabs\mylab4-6\bin\Debug\CGLabPlatform.pdb
+D:\education\education\Comp_Graph\MY_NEW\CG\mylabs\mylab4-6\obj\Debug\mylab4-6.csproj.AssemblyReference.cache
+D:\education\education\Comp_Graph\MY_NEW\CG\mylabs\mylab4-6\obj\Debug\mylab4-6.csproj.CoreCompileInputs.cache
+D:\education\education\Comp_Graph\MY_NEW\CG\mylabs\mylab4-6\obj\Debug\mylab4-6.csproj.CopyComplete
+D:\education\education\Comp_Graph\MY_NEW\CG\mylabs\mylab4-6\obj\Debug\cglab-demo.exe
+D:\education\education\Comp_Graph\MY_NEW\CG\mylabs\mylab4-6\obj\Debug\cglab-demo.pdb

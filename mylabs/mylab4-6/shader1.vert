@@ -12,7 +12,7 @@ uniform mat4 NormalMatrix;
 uniform mat4 ModelMatrix;
 uniform mat4 PointMatrix;
 
-uniform float Time; 
+uniform float Time;
 
 void main(void)
 {

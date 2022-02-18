@@ -28,3 +28,9 @@ D:\Ycheba2kurs\Comp_graph\My_LAB\CG\CGLabPlatform\obj\Debug\CGLabPlatform.csproj
 D:\Ycheba2kurs\Comp_graph\My_LAB\CG\CGLabPlatform\obj\Debug\CGLabPlatform.csproj.CoreCompileInputs.cache
 D:\Ycheba2kurs\Comp_graph\My_LAB\CG\CGLabPlatform\obj\Debug\CGLabPlatform.dll
 D:\Ycheba2kurs\Comp_graph\My_LAB\CG\CGLabPlatform\obj\Debug\CGLabPlatform.pdb
+D:\education\education\Comp_Graph\MY_NEW\CG\CGLabPlatform\bin\Debug\CGLabPlatform.dll
+D:\education\education\Comp_Graph\MY_NEW\CG\CGLabPlatform\bin\Debug\CGLabPlatform.pdb
+D:\education\education\Comp_Graph\MY_NEW\CG\CGLabPlatform\obj\Debug\CGLabPlatform.csproj.AssemblyReference.cache
+D:\education\education\Comp_Graph\MY_NEW\CG\CGLabPlatform\obj\Debug\CGLabPlatform.csproj.CoreCompileInputs.cache
+D:\education\education\Comp_Graph\MY_NEW\CG\CGLabPlatform\obj\Debug\CGLabPlatform.dll
+D:\education\education\Comp_Graph\MY_NEW\CG\CGLabPlatform\obj\Debug\CGLabPlatform.pdb

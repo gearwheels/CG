@@ -23,22 +23,22 @@ void main(void)
     vec3 FragNormaleW = normalize(FragNormale);
 
 
-    
+
     float I_red = Ia_Material.x * Ka_Material.x;
     float I_green = Ia_Material.y * Ka_Material.y;
     float I_blue = Ia_Material.z * Ka_Material.z;
 
-    
+
     I_red += clamp(0, 1, Il_Material.x * Kd_Material.x * dot(L, FragNormaleW) / (Parameters[0] * dist + Parameters[1]));
     I_green += clamp(0, 1, Il_Material.y * Kd_Material.y * dot(L, FragNormaleW) / (Parameters[0] * dist + Parameters[1]));
     I_blue += clamp(0, 1, Il_Material.z * Kd_Material.z * dot(L, FragNormaleW) / (Parameters[0] * dist + Parameters[1]));
 
-    
-    if (dot(L, FragNormaleW) > 0) 
+
+    if (dot(L, FragNormaleW) > 0)
     {
         vec3 S = vec3(CameraPos.x - FragVertex.x, CameraPos.y - FragVertex.y, CameraPos.z - FragVertex.z);
         vec3 R = vec3(reflect(-L, FragNormale));
-        
+
         S = normalize(S);
         R = normalize(R);
 

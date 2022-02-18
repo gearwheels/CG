@@ -8,3 +8,13 @@ D:\education\education\Comp_Graph\MY_NEW\TEST\CG\mylabs\mylab3\obj\Debug\mylab3.
 D:\education\education\Comp_Graph\MY_NEW\TEST\CG\mylabs\mylab3\obj\Debug\mylab3.csproj.CopyComplete
 D:\education\education\Comp_Graph\MY_NEW\TEST\CG\mylabs\mylab3\obj\Debug\cglab-demo.exe
 D:\education\education\Comp_Graph\MY_NEW\TEST\CG\mylabs\mylab3\obj\Debug\cglab-demo.pdb
+D:\education\education\Comp_Graph\MY_NEW\CG\mylabs\mylab3\bin\Debug\cglab-demo.exe.config
+D:\education\education\Comp_Graph\MY_NEW\CG\mylabs\mylab3\bin\Debug\cglab-demo.exe
+D:\education\education\Comp_Graph\MY_NEW\CG\mylabs\mylab3\bin\Debug\cglab-demo.pdb
+D:\education\education\Comp_Graph\MY_NEW\CG\mylabs\mylab3\bin\Debug\CGLabPlatform.dll
+D:\education\education\Comp_Graph\MY_NEW\CG\mylabs\mylab3\bin\Debug\CGLabPlatform.pdb
+D:\education\education\Comp_Graph\MY_NEW\CG\mylabs\mylab3\obj\Debug\mylab3.csproj.AssemblyReference.cache
+D:\education\education\Comp_Graph\MY_NEW\CG\mylabs\mylab3\obj\Debug\mylab3.csproj.CoreCompileInputs.cache
+D:\education\education\Comp_Graph\MY_NEW\CG\mylabs\mylab3\obj\Debug\mylab3.csproj.CopyComplete
+D:\education\education\Comp_Graph\MY_NEW\CG\mylabs\mylab3\obj\Debug\cglab-demo.exe
+D:\education\education\Comp_Graph\MY_NEW\CG\mylabs\mylab3\obj\Debug\cglab-demo.pdb
